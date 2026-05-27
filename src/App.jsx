@@ -1,14 +1,14 @@
 import { useEffect } from 'react'
 import Lenis from 'lenis'
 
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import About from './components/About'
-import Features from './components/Features'
-import NeoPOP from './components/Neopop'
-import Testimonials from './components/Testimonials'
-import Security from './components/Security'
-import Footer from './components/Footer'
+import Navbar from './components/Navbar.jsx'
+import Hero from './components/Hero.jsx'
+import About from './components/About.jsx'
+import Features from './components/Features.jsx'
+import NeoPOP from './components/Neopop.jsx'
+import Testimonials from './components/Testimonials.jsx'
+import Security from './components/Security.jsx'
+import Footer from './components/Footer.jsx'
 
 export default function App() {
 
